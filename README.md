@@ -35,6 +35,7 @@ Set the following variables for Microsoft Azure:
 * `subscription_key = "..."`
 * `endpoint = "..."`
 * `filename = "..."`
+
 Set the following variables for Twitter
 * `auth = tweepy.OAuthHandler("...")`
 * `auth.set_access_token("...")`
@@ -50,4 +51,4 @@ To unleash it on the world, and possibly put it on an AWS or Azure cloud instanc
 
 ## Credits
 This project was made for CruzHacks 2020 by Garrett Webb and Chandni Nagda. 
-Devpost listing is [here](https://devpost.com/software/what-would-trump-tweet-ds6wxl)
+Devpost listing is [here](https://devpost.com/software/what-would-trump-tweet-ds6wxl).
